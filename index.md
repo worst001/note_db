@@ -22,7 +22,7 @@
 ## Mysql
 
 ### 参考文档
-[Mysql5.7 参考手册](Mysql/资料/MySQL 5.7 参考手册.pdf)
+[Mysql5.7 参考手册](Mysql/资料/MySQL 5.7_参考手册.pdf)
 
 [第01章_数据库概述](Mysql/课件/第01章_数据库概述.pdf)
 
