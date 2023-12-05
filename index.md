@@ -22,46 +22,26 @@
 ## Mysql
 
 ### 参考文档
+
 [Mysql5.7 参考手册](Mysql/资料/MySQL-5.7_参考手册.pdf)
 
-[第01章_数据库概述](Mysql/课件/第01章_数据库概述.pdf)
+[尚硅谷课件资料](Direction.md)
 
-[第02章_MySQL环境搭建](Mysql/课件/第02章_MySQL环境搭建.pdf)
+#### 详细笔记
 
-[第03章_基本的SELECT语句](Mysql/课件/第03章_基本的SELECT语句.pdf)
+[数据类型](Mysql/详细笔记/数据类型.md)
 
-[第04章_运算符](Mysql/课件/第04章_运算符.pdf)
+[语法](Mysql/详细笔记/语法.md)
 
-[第05章_排序与分页](Mysql/课件/第05章_排序与分页.pdf)
+[MySQL常用函数汇总](Mysql/详细笔记/MySQL常用函数汇总.md)
 
-[第06章_多表查询](Mysql/课件/第06章_多表查询.pdf)
+[MySQL数据库开发三十六条军规](Mysql/详细笔记/MySQL数据库开发的三十六条军规.md)
 
-[第07章_单行函数](Mysql/课件/第07章_单行函数.pdf)
-
-[第08章_聚合函数](Mysql/课件/第08章_聚合函数.pdf)
-
-[第09章_子查询](Mysql/课件/第09章_子查询.pdf)
-
-[第10章_创建和管理表](Mysql/课件/第10章_创建和管理表.pdf)
-
-[第11章_数据处理之增删改](Mysql/课件/第11章_数据处理之增删改.pdf)
-
-[第12章_MySQL数据类型精讲](Mysql/课件/第12章_MySQL数据类型精讲.pdf)
-
-[第13章_约束](Mysql/课件/第13章_约束.pdf)
-
-[第14章_视图](Mysql/课件/第14章_视图.pdf)
-
-[第15章_存储过程与函数](Mysql/课件/第15章_存储过程与函数.pdf)
-
-[第16章_变量、流程控制与游标](Mysql/课件/第16章_变量、流程控制与游标.pdf)
-
-[第17章_触发器](Mysql/课件/第17章_触发器.pdf)
-
-[第18章_MySQL8其它新特性](Mysql/课件/第18章_MySQL8其它新特性.pdf)
+[MySQL数据库设计规范](Mysql/详细笔记/MySQL数据库设计规范.md)
 
 
 ### 基本介绍
+
 MySQL是一种流行的开源关系型数据库管理系统（RDBMS），广泛应用于各种应用程序和网站开发中。
 
 + 关系型数据库：
@@ -83,23 +63,7 @@ MySQL是一种流行的开源关系型数据库管理系统（RDBMS），广泛�
 
 ### 参考文档
 
-[Oracle11g官方文档中英对照版_pdf](Oracle/pdf/Oracle11g官方文档中英对照版.pdf)
-
-[基本语法与定义_pdf](Oracle/pdf/ORACLE九阴真经.pdf)
-
-[oracle原理与白皮书_pdf](Oracle/pdf/oracle知识库.pdf)
-
-[函数手册1_pdf](Oracle/pdf/oracle函数大全-分类显示.pdf)
-
-[函数手册2_pdf](Oracle/pdf/Oracle函数大全.pdf)
-
-[函数手册(官方)_pdf](Oracle/pdf/Oracle函数手册.pdf)
-
-[SQL完整手册1_chm](Oracle/chm/Ora9iSQL参考手册.chm)
-
-[SQL完整手册2_chm](Oracle/chm/SQL语言参考大全.chm)
-
-[SQLCodes-Oracle错误代码与消息解释_chm](Oracle/chm/SQLCodes-Oracle错误代码与消息解释.chm)
+[Oracle手册与资料汇总](Direction.md)
 
 ### 基本介绍
 Oracle是一种强大而广泛使用的商业关系型数据库管理系统（RDBMS），由Oracle Corporation开发和提供。
@@ -123,12 +87,7 @@ Oracle是一种强大而广泛使用的商业关系型数据库管理系统（RD
 ### 参考文档
 [Neo4j详细笔记](Neo4j/neo4j.md)
 
-[Neo4j官方手册](Neo4j/文档/neo4j-cypher-manual-4.3.pdf)
-
-[Java对接手册](Neo4j/文档/neo4j-driver-manual-4.3-java.pdf)
-
-[Java对接补充](Neo4j/文档/neo4j-java-reference-4.3.pdf)
-
+[Neo4j官方手册](Direction.md)
 
 ### 基本介绍
 Neo4j是一种图形数据库管理系统，专注于存储和处理图形结构的数据。它使用图形模型来表示和处理数据，将实体（节点）之间的关系（边）作为重要的数据组织方式。
@@ -150,6 +109,8 @@ Neo4j是一种图形数据库管理系统，专注于存储和处理图形结构
 
 ### 参考文档
 [中文在线文档](https://docs.whaleal.com/mongodb-manual-zh/docs/#)
+
+[技术索引手册](MongoDB/README.md)
 
 ### 基本介绍
 
