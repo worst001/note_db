@@ -132,7 +132,7 @@ MongoDB是一种开源的、面向文档的NoSQL数据库管理系统。
 ## RABC
 
 ### 参考文档
-[简易mysql示例](./RBAC.md)
+[Mysql版简易示例](RBAC.md)
 
 ### 基本介绍
 
