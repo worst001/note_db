@@ -13,46 +13,46 @@
 >
 > 本项目从 [awesome-mongodb](https://github.com/ramnes/awesome-mongodb) fork，欢迎通过 [CONTRIBUTING](CONTRIBUTING.md)，改善这个列表。
 
-## 目录
-
-* [资源](#资源)
-	* [文档](#资源)
-	* [文章](#文章)
-    * [图书](#图书)
-    * [会谈](#会谈)
-    * [教程](#教程)
-    * [更多](#更多)
-* [库](#库)
-    * [C](#C)
-    * [C++](#C++)
-    * [C#/.NET](#C#/.NET)
-    * [Delphi](#Delphi)
-    * [Elixir](#Elixir)
-    * [Erlang](#Erlang)
-    * [Go](#Go)
-    * [Haskell](#Haskell)
-    * [Java](#Java)
-    * [JavaScript](#JavaScript)
-    * [Julia](#Julia)
-    * [Lisp](#Lisp)
-    * [Mathematica](#Mathematica)
-    * [Perl](#Perl)
-    * [PHP](#PHP)
-    * [Python](#Python)
-    * [R](#R)
-    * [Ruby](#Ruby)
-    * [Rust](#Rust)
-    * [Scala](#Scala)
-* [工具](#工具)
-    * [管理](#管理)
-    * [数据](#数据)
-    * [部署](#部署)
-    * [桌面](#desktop)
-    * [发展](#发展)
-    * [监控](#监控)
-    * [Shell](#Shell)
-    * [Web](#Web)
-* [应用](#应用)
+<!-- ## 目录 -->
+<!--  -->
+<!-- * [资源](#资源) -->
+<!--     * [文档](#资源) -->
+<!--     * [文章](#文章) -->
+<!--     * [图书](#图书) -->
+<!--     * [会谈](#会谈) -->
+<!--     * [教程](#教程) -->
+<!--     * [更多](#更多) -->
+<!-- * [库](#库) -->
+<!--     * [C](#C) -->
+<!--     * [C++](#C++) -->
+<!--     * [C#/.NET](#C#/.NET) -->
+<!--     * [Delphi](#Delphi) -->
+<!--     * [Elixir](#Elixir) -->
+<!--     * [Erlang](#Erlang) -->
+<!--     * [Go](#Go) -->
+<!--     * [Haskell](#Haskell) -->
+<!--     * [Java](#Java) -->
+<!--     * [JavaScript](#JavaScript) -->
+<!--     * [Julia](#Julia) -->
+<!--     * [Lisp](#Lisp) -->
+<!--     * [Mathematica](#Mathematica) -->
+<!--     * [Perl](#Perl) -->
+<!--     * [PHP](#PHP) -->
+<!--     * [Python](#Python) -->
+<!--     * [R](#R) -->
+<!--     * [Ruby](#Ruby) -->
+<!--     * [Rust](#Rust) -->
+<!--     * [Scala](#Scala) -->
+<!-- * [工具](#工具) -->
+<!--     * [管理](#管理) -->
+<!--     * [数据](#数据) -->
+<!--     * [部署](#部署) -->
+<!--     * [桌面](#desktop) -->
+<!--     * [发展](#发展) -->
+<!--     * [监控](#监控) -->
+<!--     * [Shell](#Shell) -->
+<!--     * [Web](#Web) -->
+<!-- * [应用](#应用) -->
 
 ## 资源
 

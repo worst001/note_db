@@ -1,7 +1,6 @@
 # MySQL 常用函数汇总
 
-字符串函数
-=====
+## 字符串函数
 
 | 函数 | 功能 |
 | --- | --- |
@@ -21,8 +20,7 @@
 | TRIM(str) | 去掉字符串行尾和行头的空格 |
 | SUBSTRING(str,x,y) | 返回从字符串 str x 位置起 y 个字符长度的字串 |
 
-数学函数
-====
+## 数学函数
 
 | 函数 | 功能 |
 | --- | --- |
@@ -34,8 +32,7 @@
 | ROUND(x,y) | 返回参数 x 的四舍五入的有 y 位小数的值 |
 | TRUNCATE(x,y) | 返回数字 x 截断位 y 位小数的结果 |
 
-日期和时间函数
-=======
+## 日期和时间函数
 
 | 函数 | 功能 |
 | --- | --- |
@@ -53,8 +50,7 @@
 | DATE_ADD(date,interval expr type) | 返回一个日期或时间值加上一个时间间隔的时间值 |
 | DATEDIFF(expr,expr2) | 返回起始时间 expr 和结束时间 expr2 之间的天数 |
 
-流程函数
-====
+## 流程函数
 
 | 函数 | 功能 |
 | --- | --- |
@@ -63,8 +59,7 @@
 | CASE WHEN [value1] THEN[result1]...ELSE[default]END | 如果 value1 是真，返回 result1，否则返回 result |
 | CASE[expr] WHEN [value1]THEN[result1]...ELSE[default]END | 如果 expr 等于 value1，返回 result1，否则返回 default |
 
-其他常用函数
-======
+## 其他常用函数
 
 | 函数 | 功能 |
 | --- | --- |
