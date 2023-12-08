@@ -11,7 +11,7 @@
 
 > :leaves: MongoDB 资源、库、工具、应用程序精选列表中文版。
 >
-> 本项目从 [awesome-mongodb](https://github.com/ramnes/awesome-mongodb) fork，欢迎通过 [CONTRIBUTING](CONTRIBUTING.md)，改善这个列表。
+> 本项目从 [awesome-mongodb](https://github.com/ramnes/awesome-mongodb) fork，欢迎通过 [CONTRIBUTING]()，改善这个列表。
 
 <!-- ## 目录 -->
 <!--  -->
