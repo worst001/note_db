@@ -1,3 +1,14 @@
+<!-- PROJECT SHIELDS -->
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![Stargazers][stars-shield]][stars-url]
+<!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
+
+<!-- PROJECT LOGO -->
+
 # 数据库
 
 ## 基本概念
@@ -153,3 +164,17 @@ RABC（Role-Based Access Control）是一种基于角色的访问控制模型，
     + RABC模型支持角色之间的继承关系。这意味着一个角色可以继承另一个角色的权限，简化了权限管理和维护的复杂性。
 + 审计（Audit）
     + 审计是对系统中用户活动和访问操作的记录和监控。通过审计功能，管理员可以跟踪和检查用户的操作行为，以保证系统的安全性和合规性。
+
+
+<!-- links -->
+[your-project-path]:shaojintian/Best_README_template
+[contributors-shield]: https://img.shields.io/github/contributors/worst001/mkdocs_db.svg?style=flat-square
+[contributors-url]: https://github.com/worst001/mkdocs_db/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/worst001/mkdocs_db.svg?style=flat-square
+[forks-url]: https://github.com/worst001/mkdocs_db/network/members
+[stars-shield]: https://img.shields.io/github/stars/worst001/mkdocs_db.svg?style=social
+[stars-url]: https://github.com/worst001/mkdocs_db/stargazers
+[issues-shield]: https://img.shields.io/github/issues/worst001/mkdocs_db.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/worst001/mkdocs_db.svg
+[license-shield]: https://img.shields.io/github/license/worst001/mkdocs_db.svg?style=flat-square
+[license-url]: https://github.com/worst001/mkdocs_db/blob/main/LICENSE.txt
