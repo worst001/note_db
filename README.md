@@ -1,3 +1,4 @@
+<a name="readme-top"></a>
 <!-- PROJECT SHIELDS -->
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -9,7 +10,38 @@
 
 <!-- PROJECT LOGO -->
 
-# 数据库
+<!-- 项目LOGO -->
+<br />
+<div align="center">
+  <a href="http://mkdocs.grft.top">
+    <img src="https://xiyou-oss.oss-cn-shanghai.aliyuncs.com/mkdocs/logo.png" alt="Logo" width="480" height="270">
+  </a>
+
+  <h3 align="center">数据库</h3>
+
+  <p align="center">
+    <br />
+    <a href="http://mkdocs.grft.top/数据库/"><strong>探索文档 »</strong></a>
+    <br />
+  </p>
+</div>
+
+<!-- 目录 -->
+<details>
+  <summary>目录</summary>
+  <ol>
+    <li><a href="#关于项目">关于项目</a></li>
+    <li><a href="#什么是数据库">什么是数据库</a></li>
+    <li><a href="#技术目录">技术目录</a></li>
+    <li><a href="#贡献">贡献</a></li>
+    <li><a href="#许可证">许可证</a></li>
+    <li><a href="#联系方式">联系方式</a></li>
+    <li><a href="#鸣谢">鸣谢</a></li>
+  </ol>
+</details>
+
+
+## 关于项目
 
 整理了一些常用的数据库相关资料、笔记与操作手册
 
@@ -21,9 +53,9 @@
 
 - 访问入口：[http://mkdocs.grft.top](http://mkdocs.grft.top)
 
---------------------
+<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
-## 基本概念
+## 什么是数据库
 
 数据库（Database）是用于存储、管理、检索和操作数据的系统。它通过组织和存储数据使得我们能够高效地访问和管理数据。数据库通常由数据库管理系统（DBMS）来操控，通过DBMS，用户可以执行数据的创建、读取、更新和删除（CRUD）操作。
 
@@ -40,13 +72,13 @@
 + 安全性：数据库利用访问控制和加密来保证数据的安全性。
 + 备份与恢复：数据库支持数据备份和在发生故障时恢复的功能。
 
---------------------
+<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
-## 目录
+## 技术目录
 
 [目录与大纲](index.md)
 
-## Mysql
+### Mysql
 
 + [Mysql5.7 参考手册](Mysql/资料/MySQL-5.7_参考手册.pdf)
 
@@ -79,7 +111,7 @@
 + [MySQL数据库开发三十六条军规](Mysql/详细笔记/MySQL数据库开发的三十六条军规.md)
 + [MySQL数据库设计规范](Mysql/详细笔记/MySQL数据库设计规范.md)
 
-## Oracle
+### Oracle
 + [Oracle11g官方文档中英对照版_pdf](Oracle/pdf/Oracle11g官方文档中英对照版.pdf)
 + [基本语法与定义_pdf](Oracle/pdf/ORACLE九阴真经.pdf)
 + [oracle原理与白皮书_pdf](Oracle/pdf/oracle知识库.pdf)
@@ -91,7 +123,7 @@
 + [SQLCodes-Oracle错误代码与消息解释_chm](Oracle/chm/SQLCodes-Oracle错误代码与消息解释.chm)
 
 
-## Neo4j
+### Neo4j
 
 + [Neo4j详细笔记](Neo4j/neo4j.md)
 + [Neo4j官方手册](Neo4j/文档/neo4j-cypher-manual-4.3.pdf)
@@ -99,46 +131,64 @@
 + [Java对接补充](Neo4j/文档/neo4j-java-reference-4.3.pdf)
 
 
-## MongoDB
+### MongoDB
 
 + [中文在线文档](https://docs.whaleal.com/mongodb-manual-zh/docs/#)
 + [技术索引手册](MongoDB/README.md)
 
 
-## RABC
+### RABC
 
 + [Mysql版简易示例](RBAC.md)
 
+<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
--------------------
+<!-- 贡献 -->
 
+## 贡献
 
-## 版本控制
+贡献是使开源社区成为一个如此令人惊叹的地方，以学习、激励和创造。您所做的任何贡献都将非常感谢。
 
-该项目使用Git进行版本管理。您可以在repository参看当前可用版本。
+如果您对使这个项目变得更好有建议，请 fork 该仓库并创建 pull request。您也可以打开一个带有“enhancement”标签的问题。不要忘记给这个项目点个星！再次感谢！
 
-<!-- ## 作者 -->
-<!--  -->
-<!-- [小昊子](https://github.com/worst001) -->
-<!--  -->
-<!-- 制做不易，如果有帮到你就请作者喝杯咖啡吧! -->
-<!--  -->
-<!-- ![支付宝加微信](https://xiyou-oss.oss-cn-shanghai.aliyuncs.com/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%B8%8E%E6%94%AF%E4%BB%98/%E6%94%AF%E4%BB%98%E5%AE%9D%E5%8A%A0%E5%BE%AE%E4%BF%A1.jpg) -->
-<!--  -->
-<!-- 作者无聊时做的测试游戏，完全免费哦！ -->
-<!--  -->
-<!-- ![公众号](https://xiyou-oss.oss-cn-shanghai.aliyuncs.com/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%B8%8E%E6%94%AF%E4%BB%98/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%B0%8F.jpg) -->
-
-## 参考资料
-
-[尚硅谷系列教程资料](http://www.atguigu.com/opensource.shtml)
+<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
 
-### 写在最后的话
+<!-- 许可证 -->
+## 许可证
+
+根据 MIT 许可证进行分发。更多信息请参见 [LICENSE.txt](LICENSE)。
+
+<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
+
+<!-- 联系方式 -->
+## 联系方式
+
+关注我: [小昊子](https://github.com/worst001)
+
+博客地址: [http://mkdocs.grft.top](http://mkdocs.grft.top)
+
+项目链接: [https://github.com/worst001/mkdocs_db](https://github.com/worst001/mkdocs_db)
+
+<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
+
+## 鸣谢
 
 因为仓库与文档的数量比较大，有些借鉴资料忘了在`参考文档`部分提及原作者与原仓库，若有疏漏请告诉，我及时补上。
 
 所有引用的原资料都确认是开源认证，若有侵权请告知。
+
+[https://docs.whaleal.com](https://docs.whaleal.com)
+
+[https://github.com/guanguans/notes](https://github.com/guanguans/notes)
+
+[https://www.cnblogs.com/andy6/p/5723881.html](https://www.cnblogs.com/andy6/p/5723881.html)
+
+[尚硅谷系列教程资料](http://www.atguigu.com/opensource.shtml)
+
+[https://openai.com/chatgpt](https://openai.com/chatgpt)
+
+<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
 <!-- links -->
 [your-project-path]:shaojintian/Best_README_template
