@@ -168,13 +168,13 @@ RABC（Role-Based Access Control）是一种基于角色的访问控制模型，
 
 <!-- links -->
 [your-project-path]:shaojintian/Best_README_template
-[contributors-shield]: https://img.shields.io/github/contributors/worst001/mkdocs_db.svg?style=flat-square
-[contributors-url]: https://github.com/worst001/mkdocs_db/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/worst001/mkdocs_db.svg?style=flat-square
-[forks-url]: https://github.com/worst001/mkdocs_db/network/members
-[stars-shield]: https://img.shields.io/github/stars/worst001/mkdocs_db.svg?style=social
-[stars-url]: https://github.com/worst001/mkdocs_db/stargazers
-[issues-shield]: https://img.shields.io/github/issues/worst001/mkdocs_db.svg?style=flat-square
-[issues-url]: https://img.shields.io/github/issues/worst001/mkdocs_db.svg
-[license-shield]: https://img.shields.io/github/license/worst001/mkdocs_db.svg?style=flat-square
-[license-url]: https://github.com/worst001/mkdocs_db/blob/main/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/worst001/note_db.svg?style=flat-square
+[contributors-url]: https://github.com/worst001/note_db/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/worst001/note_db.svg?style=flat-square
+[forks-url]: https://github.com/worst001/note_db/network/members
+[stars-shield]: https://img.shields.io/github/stars/worst001/note_db.svg?style=social
+[stars-url]: https://github.com/worst001/note_db/stargazers
+[issues-shield]: https://img.shields.io/github/issues/worst001/note_db.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/worst001/note_db.svg
+[license-shield]: https://img.shields.io/github/license/worst001/note_db.svg?style=flat-square
+[license-url]: https://github.com/worst001/note_db/blob/main/LICENSE.txt
